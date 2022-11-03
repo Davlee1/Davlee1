@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack developement.<br>
 - 🌱 I’m currently learning front end developement.<br>
 - 💞️ I’m looking to collaborate ambitious projects <br>
-- 📫 How to reach me [LinkedIn link here]
+- 📫 How to reach me <a href="https://www.linkedin.com/in/david-lee-417382220/">
 
 <!---
 Davlee1/Davlee1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
