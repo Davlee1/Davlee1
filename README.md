@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m David Lee</h1>
 - 👀 I’m interested in Full stack developement.<br>
 - 🌱 I’m currently learning front end developement.<br>
-- 💞️ I’m looking to collaborate ambitious projects <br>
+- 💞️ I’m looking to collaborate on ambitious projects <br>
 - 📫 How to reach me https://www.linkedin.com/in/david-lee-417382220/
 
 <!---
